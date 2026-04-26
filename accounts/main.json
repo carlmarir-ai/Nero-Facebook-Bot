@@ -17,11 +17,11 @@
   },
   {
     "key": "fr",
-    "value": "0XphlJJq3BooVxok5.AWeROr_EHVnOtGzedRCtxHClXZZJeu0j5Amb5A273-9zv08WCEg.Bp7O9s..AAA.0.0.Bp7O_M.AWdqD9AjreJ_VqOa_1XVDHj98AY",
+    "value": "0XphlJJq3BooVxok5.AWd5K8DuHH0lH7MUPli_UnKSSdgQufV2eVvVlPoxD71L5v_NSD0.Bp7O9s..AAA.0.0.Bp7XOF.AWe00HYmwDTYet_h4l3t-fpUBkQ",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "expirationDate": 1784911562.384715
+    "expirationDate": 1784945284.918205
   },
   {
     "key": "datr",
@@ -29,7 +29,7 @@
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "expirationDate": 1811695466.962165
+    "expirationDate": 1811729288.309989
   },
   {
     "key": "sb",
@@ -49,11 +49,11 @@
   },
   {
     "key": "fbl_st",
-    "value": "100429675%3BT%3A29618926",
+    "value": "101617666%3BT%3A29619488",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "expirationDate": 1808671563
+    "expirationDate": 1808705287
   },
   {
     "key": "locale",
@@ -64,20 +64,12 @@
     "expirationDate": 1777740345.735133
   },
   {
-    "key": "m_pixel_ratio",
-    "value": "1.7004296779632568",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "expirationDate": null
-  },
-  {
     "key": "pas",
     "value": "61564722856334%3ARdDr5wVpI4",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "expirationDate": 1811695562.384817
+    "expirationDate": 1811729284.921236
   },
   {
     "key": "vpd",
@@ -85,22 +77,14 @@
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "expirationDate": 1782319563
-  },
-  {
-    "key": "wd",
-    "value": "360x800",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "expirationDate": null
+    "expirationDate": 1782353287
   },
   {
     "key": "wl_cbv",
-    "value": "v2%3Bclient_version%3A3152%3Btimestamp%3A1777135564",
+    "value": "v2%3Bclient_version%3A3152%3Btimestamp%3A1777169285",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "expirationDate": 1784911562
+    "expirationDate": 1784945287
   }
 ]
